@@ -63,4 +63,4 @@ fastlane/report.xml
 fastlane/screenshots
 
 # VIM
-.swp
+*.swp
